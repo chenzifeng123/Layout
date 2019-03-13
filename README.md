@@ -10,7 +10,7 @@
    
 ##3.利用表格布局实现如下界面：
 
-<img width="300" height="500" src="https://github.com/chenzifeng123/image/blob/master/2_004.png"/>
+<img width="400" height="300" src="https://github.com/chenzifeng123/image/blob/master/2_004.png"/>
 
 
 
