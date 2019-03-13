@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Layout</string>
+
+    <string name="One_One">One,One</string>
+    <string name="One_Two">One,Two</string>
+    <string name="One_Three">One,Three</string>
+    <string name="One_Four">One,Four</string>
+
+    <string name="Two_One">Two,One</string>
+    <string name="Two_Two">Two,Two</string>
+    <string name="Two_Three">Two,Three</string>
+    <string name="Two_Four">Two,Four</string>
+
+    <string name="Three_One">Three,One</string>
+    <string name="Three_Two">Three,Two</string>
+    <string name="Three_Three">Three,Three</string>
+    <string name="Three_Four">Three,Four</string>
+
+    <string name="Four_One">Four,One</string>
+    <string name="Four_Two">Four,Two</string>
+    <string name="Four_Three">Four,Three</string>
+    <string name="Four_Four">Four,Four</string>
+
+    <string name="red">red</string>
+    <string name="orange">orange</string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="indigo">indigo</string>
+    <string name="violet">violet</string>
+
+    <string name="table_open">Open...</string>
+    <string name="table_open_shortcut">Ctrl-O</string>
+    <string name="table_save">Save...</string>
+    <string name="table_save_shortcut">Ctrl-S</string>
+    <string name="table_save_as">Save As...</string>
+    <string name="table_save_as_shortcut">Ctrl-Shift-S</string>
+
+    <string name="table_x_import">X Import...</string>
+    <string name="table_x_export">X Export...</string>
+    <string name="table_x_export_shortcut">Ctrl-E</string>
+
+    <string name="table_quit">Quit</string>
+
+
+
+
+</resources>

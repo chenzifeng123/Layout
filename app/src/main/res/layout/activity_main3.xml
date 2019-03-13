@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+
+    >
+    <TableRow>
+
+        <TextView
+            android:layout_marginLeft="13dp"
+            android:layout_width="268dp"
+            android:padding="3dip"
+            android:text="@string/table_open" />
+        <TextView
+            android:gravity="end"
+            android:padding="3dip"
+            android:text="@string/table_open_shortcut" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_marginLeft="13dp"
+            android:padding="3dip"
+            android:text="@string/table_save" />
+        <TextView
+            android:text="@string/table_save_shortcut"
+            android:gravity="end"
+            android:padding="3dip"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_marginLeft="13dp"
+            android:text="@string/table_save_as"
+            android:padding="3dip"/>
+        <TextView
+            android:gravity="end"
+            android:padding="3dip"
+            android:text="@string/table_save_as_shortcut" />
+    </TableRow>
+
+    <View
+        android:layout_height="1px"
+        android:background="#000000"
+        android:layout_width="fill_parent"></View>
+
+    <TableRow>
+        <TextView
+            android:text="@string/table_x_import"
+            android:padding="3dip"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/table_x_export"
+            android:padding="3dip"/>
+        <TextView
+            android:gravity="end"
+            android:padding="3dip"
+            android:text="@string/table_x_export_shortcut" />
+    </TableRow>
+    <View
+        android:layout_height="1px"
+        android:background="#000000"
+        android:layout_width="fill_parent"></View>
+
+    <TableRow>
+        <TextView
+            android:layout_marginLeft="13dp"
+            android:text="@string/table_quit"
+            android:padding="3dip"/>
+    </TableRow>
+
+</TableLayout>
+
+
+
